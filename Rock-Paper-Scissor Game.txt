@@ -1,16 +1,1 @@
-﻿'Project185.exe' (Win32): Loaded 'C:\Users\MK\source\repos\Project185\x64\Debug\Project185.exe'. Symbols loaded.
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
-The thread 0xe3c has exited with code 0 (0x0).
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
-'Project185.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
-The thread 0x3bb8 has exited with code 0 (0x0).
-The thread 0x1ce4 has exited with code 0 (0x0).
-The thread 0x4acc has exited with code 3221225786 (0xc000013a).
-The program '[3460] Project185.exe' has exited with code 3221225786 (0xc000013a).
+
